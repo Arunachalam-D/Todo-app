@@ -1,2 +1,2 @@
 # Todo-app
-Todo app designed with pleasing UI/UX experience helps to add,edit and delete tasks
+Built using react typescript and provided with smooth UI/UX, it enables user to add,edit and delete tasks.
